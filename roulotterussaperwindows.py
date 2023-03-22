@@ -1,1 +1,1 @@
-fgvtgfv
+print(f'Roulotte russa')
